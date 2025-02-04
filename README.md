@@ -1,6 +1,9 @@
 # Information_Retrieval using Bert and Llama3 
 
 
+![Örnek Görsel](images/1.png)
+![Örnek Görsel](images/2.png)
+
 
 
 ## 📄 Akıllı PDF Arama & Soru Cevaplama
